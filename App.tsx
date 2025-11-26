@@ -684,7 +684,7 @@ const App: React.FC = () => {
                  </li>
                  <li className="flex items-start gap-3">
                    <Phone className="w-5 h-5 text-safari-green flex-shrink-0" />
-                   <span>+255 123 456 789</span>
+                   <span>+255 784 383 398 / +255 764 986 150</span>
                  </li>
               </ul>
             </div>
