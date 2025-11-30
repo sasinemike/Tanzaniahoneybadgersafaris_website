@@ -7,20 +7,101 @@ import SafariPlanner from './components/SafariPlanner';
 const TOURS: TourPackage[] = [
   {
     id: '1',
-    title: 'Serengeti Migration Safari',
+    title: '3 Days serengeti and Ngorongoro safari',
     days: 7,
     price: 2400,
     image: 'migration.jpg',
-    description: 'Witness the greatest show on earth. Follow the massive herds of wildebeest and zebra across the endless plains.',
+    description: '3 Days Serengeti and Ngorongoro Safari
+3 Days Safari to Serengeti and Ngorongoro Crater allow you to experience the highlight of the northern Tanzania in a very short time. This plan is tailored mainly for those who are looking for safari to Serengeti and Ngorongoro Crater but they have a limited time.
+Included
+Transport to and from
+•	Safari with land cruiser with roof top for game viewing
+•	Accommodation with meals
+•	Park entry fees
+•	Services a professional driver guide
+•	Drinking water for the safari
+Excluded
+
+•	Tips and gratuities
+•	Any other items not included
+Tour Plan
+Day 1: Arusha to Serengeti National Park
+Pick up at your hotel or airport in Arusha, Tanzania and proceed to Serengeti National Park, through the stunning excessive mendacity farmland of Karatu and the Ngorongoro Conservation Area. Leaving the highlands behind, we descend into the coronary heart of untamed Africa the Serengeti National Park with its infinite plains, rolling into the gap as some distance as the attention can see. On nowadays, we are able to power to the relevant park place, called the Seronera place, one of the richest natural world habitats within the park, providing the Seronera River, which presents a treasured water supply to this place. Arrive in time for lunch and experience a day within the Serengeti countrywide park.
+Dinner and overnight at Matawi Serengeti Camp or similar.
+
+
+Day 2: Serengeti to Ngorongoro Crater
+Wake up to a delectable breakfast. Afterwards proceed to Ngorongoro, known as the 8th Wonder of the Natural World. The crater spans 102 square miles and boasts towering walls 2,000 feet high, creating a natural Noah's ark housing a diverse array of East African wildlife. It's a rare spot where you can spot black rhinos, and the concentration of African wildlife here is unparalleled on the continent. The crater features a river, swamps, a soda lake teeming with flamingos, forests, and open plains. It's renowned for its large elephants with massive tusks, attributed to the nutrient-rich volcanic soil and grasses in the area.
+Dinner and overnight at Marera Valley Lodge or similar.
+Day 3: Ngorongoro Crater to Arusha
+You'll kick off the day bright and early, heading down to the crater floor for an unforgettable morning amidst stunning wildlife in one of Earth's most breathtaking locations. You'll enjoy an enroute game drive before ascending from the crater and departing the Ngorongoro Conservation Area. Later drive to Arusha arriving later in the day with drop off at your hotel or airport for your onward plans.
+PRICE
+$1290
+.',
     highlights: ['Game Drives', 'Camping under stars', 'Hot Air Balloon option']
   },
   {
     id: '2',
-    title: 'Kilimanjaro Machame Route',
+    title: '9 Days Masai Mara, Lake Nakuru, Amboseli, Ngorongoro and Serengeti Safari',
     days: 6,
     price: 1850,
     image: 'https://picsum.photos/id/1018/800/600',
-    description: 'Conquer the roof of Africa. The Machame route offers the most scenic ascent to the summit.',
+    description: '9 Days Masai Mara, Lake Nakuru, Amboseli, Ngorongoro and Serengeti Safari
+This 9-day adventure takes you through some of East Africa’s most iconic wildlife destinations, offering breathtaking landscapes, diverse ecosystems, and unparalleled wildlife encounters. Experience the vast plains of the Masai Mara and Serengeti, the flamingo-filled shores of Lake Nakuru, the majestic Mount Kilimanjaro backdrop in Amboseli, and the awe-inspiring Ngorongoro Crater. This safari provides the perfect mix of game drives, cultural experiences, and stunning scenery.
+Included Transport to and from
+•	Safari with land cruiser with roof top for game viewing
+•	Accommodation with meals
+•	Park entry fees
+•	Services a professional driver guide
+•	Drinking water for the safari
+Excluded
+•	Tips and gratuities
+•	Any other items not included
+Tour Plan
+Day 1: Nairobi – Masai Mara National Reserve
+Early morning departure from Nairobi.
+Scenic drive through the Great Rift Valley with a stop at a viewpoint.
+Afternoon game drive upon arrival in Masai Mara.
+Overnight at Jambo Mara Safari Lodge or Simba & Oryx Nature Camp or Mara Sopa Lodge or similar
+Day 2: Full-Day Game Drive in Masai Mara
+Morning and afternoon game drives in the Masai Mara, home to the Big Five and the Great Migration (seasonal).
+Optional Masai village visit for a cultural experience.
+Overnight at Jambo Mara Safari Lodge or Simba & Oryx Nature Camp or Mara Sopa Lodge or similar
+
+Day 3: Masai Mara – Lake Nakuru National Park
+Early morning game drive in Masai Mara before heading to Lake Nakuru.
+Afternoon game drive in Lake Nakuru, famous for its flamingos, rhinos, and leopards.
+Overnight at Lake Nakuru lodge, Ziwa Bush Lodge, Sarova Lion Hill Game Lodge or similar
+Day 4: Lake Nakuru – Amboseli National Park
+Early breakfast, then drive to Amboseli National Park.
+Arrive in time for an afternoon game drive.
+Enjoy views of Mount Kilimanjaro and spot large elephant herds.
+Overnight at AA Lodge Amboseli, Sentrim Amboseli, Kibo Safari Camp or similar
+Day 5: Amboseli – Arusha
+Early morning game drive in Amboseli.
+Transfer to Namanga border, then drive to Arusha, Tanzania’s safari hub.
+Rest and prepare for the Tanzania safari portion.
+Overnight in Arusha at Dan Stam Hotel Arusha, crest safari lodge, Tulia Boutique Hotel & Spa or similar
+Day 6: Arusha – Serengeti National Park
+Early morning drive to Serengeti National Park, via the Ngorongoro Conservation Area.
+Afternoon game drive in the Serengeti’s endless plains.
+Overnight at Osinon Tented Camp & Lodge, Anantya Serengeti, Mawe Tented Camp or similar
+Day 7: Full-Day Game Drive in Serengeti
+Full day exploring the Serengeti, famous for the Great Migration, lions, cheetahs, and abundant wildlife.
+Optional hot air balloon safari for a breathtaking aerial view.
+Overnight at Osinon Tented Camp & Lodge, Anantya Serengeti, Mawe Tented Camp or similar
+
+Day 8: Serengeti – Ngorongoro Crater
+Morning game drive in Serengeti before heading to Ngorongoro Crater.
+Descend into the crater for an exciting game drive.
+Overnight at Karatu villas lodge, Tanzanice Farm Lodge, Pembeni Rhotia or similar
+Day 9: Ngorongoro – Arusha
+Early morning game drive in Ngorongoro.
+Return to Arusha, with an optional transfer to Kilimanjaro Airport for departure.
+
+Price
+$ 3900
+.',
     highlights: ['Professional Guides', 'Porters included', 'Scenic Views']
   },
   {
